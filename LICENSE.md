@@ -1,4 +1,4 @@
-
+advanced Extension for Obsidian for macOS - export to PDF and OCR scanning offers the most advanced Obsidian for macOS extension, with export to PDF and OCR scanning. Ideal for
 
 
 
